@@ -1,6 +1,6 @@
 # Web-Development-Project---
 PG Life is a Full-Stack Web Application. This is a project that I was assigned to make during my Internshala Full Stack Web Development Internship Training. I got the guidance, and following that I made this web application with my own undertsnading and knowledge. 
-This web app is fully responsive. In this WWeb Application you can Sign-ip or login by filling the required credentials which then will be stored in a database. You can add PG's to your interested PG's list and book a PG. 
+This web app is fully responsive. In this Web Application you can Sign-in or login by filling the required credentials which then will be stored in a database. You can add PG's to your interested PG's list and book a PG. 
 
 I have used HTML, CSS, Bootstrap, PHP, DBMS, Javascript, React, AJAX and MySQL to make this web app.
 
